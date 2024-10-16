@@ -1,0 +1,17 @@
+{
+    "Navbar": {
+    "home": "Home",
+    "freeMarketingAnalysis": "Free Marketing Analysis",
+    "contactUs": "Contact Us"
+  },
+  "Hero":{
+    "firstLine": "Unlock More Clients, More Growth.",
+    "secondLine": "Guaranteed.",
+    "button":"YES, I WANT THAT!"
+  },
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  }
+}
+
